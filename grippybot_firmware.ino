@@ -3,7 +3,7 @@
   
   Arduino Mega 2560 +
   GrippyBot(5 servo-motors) + 
-  Bluetooth + 
+  (Bluetooth +) (not yet implemented) 
   Laser + 
   Audio + 
   IR Range Finder (Sharp)
